@@ -9,3 +9,7 @@ iq = 1000000000000000.0 # LMAO
 is_hungry = true
 is_home = true
 in_colorado = false
+
+favorite_colors = ["black", "red"]
+favorite_foods = ["sushi", "ice cream"]
+favorite_movies = ["The Dark Knight", "Interstellar"]
